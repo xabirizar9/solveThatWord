@@ -1,0 +1,2 @@
+# Project for automatic wordle
+
